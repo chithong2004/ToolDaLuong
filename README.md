@@ -1,2 +1,1 @@
-# ToolDaLuong
-Tool Trao Đổi Sub Và Tương Tác Chéo Đa Luồng
+Tool Trao Đổi Sub Và Tương Tác Chéo Cho Anh Em Treo Vẫn Như Cũ Chỉ Cần Tải Source Này Về Và Giải Nén Ra Vào Termux Nhập [ cd /sdcard/download && php 6in1byct.php ] Là Đã Hoàn Hành Chỉ Cần Nhập Tài khoản Và Chạy =)) 
